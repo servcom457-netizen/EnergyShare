@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BatteryShare AI</string>
+    <string name="app_version">1.0</string>
+    <string name="share_energy">PARTAGER MON ÉNERGIE</string>
+    <string name="receive_energy">RECEVOIR DE L\'ÉNERGIE</string>
+    <string name="history">HISTORIQUE</string>
+    <string name="settings">PARAMÈTRES</string>
+    <string name="notification_channel_name">Surveillance énergétique active</string>
+    <string name="notification_channel_desc">Protections thermiques et suivi du niveau de batterie pendant le partage.</string>
+</resources>

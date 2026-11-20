@@ -1,0 +1,8 @@
+{
+  "name": "BatteryShare AI V1.0",
+  "description": "Application Android Kotlin/Jetpack Compose de partage d'énergie USB-C/OTG et recharge sans fil inversée avec protection thermique, Room, Bluetooth et Wi-Fi Direct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
